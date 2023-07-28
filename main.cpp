@@ -14,6 +14,4 @@ int main()
     menuLoop(bst);
 
     return 0;
-
-    return 0;
 }
