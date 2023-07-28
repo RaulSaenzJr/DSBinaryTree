@@ -4,5 +4,6 @@
 !.gitignore
 !EmployeeInfo.h
 !EmployeeInfo.cpp
+!BinarySearchTree.h
 
 
