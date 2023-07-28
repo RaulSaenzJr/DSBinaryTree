@@ -10,6 +10,8 @@
 !displayMenu.cpp
 !employeeDataReader.h
 !employeeDataReader.cpp
+!menuHandler.h
+!menuHandler.cpp
 
 
 
