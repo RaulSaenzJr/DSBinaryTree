@@ -12,7 +12,31 @@ BinarySearchTree::~BinarySearchTree()
 {
     destroyRecursive(root);
 }
+int BinarySearchTree::getHeightHelper(Node *node) const
+{
+    if (node == nullptr)
+    {
+        return 0;
+    }
+    else
+    {
+        int leftHeight = getHeightHelper(node->left);
+        int rightHeight = getHeightHelper(node->right);
+        return 1 + std::max(leftHeight, rightHeight);
+    }
+}
 
+int BinarySearchTree::getNumberOfNodesHelper(Node *node) const
+{
+    if (node == nullptr)
+    {
+        return 0;
+    }
+    else
+    {
+        return 1 + getNumberOfNodesHelper(node->left) + getNumberOfNodesHelper(node->right);
+    }
+}
 void BinarySearchTree::insert(const EmployeeInfo &info)
 {
     if (root == nullptr)

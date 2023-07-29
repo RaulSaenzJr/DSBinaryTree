@@ -35,6 +35,8 @@ private:
     // Recursive helper functions
     void insertRecursive(Node *node, const EmployeeInfo &info);
     Node *removeRecursive(Node *node, int emp_id);
+    int getHeightHelper(Node *node) const;
+    int getNumberOfNodesHelper(Node *node) const;
     Node *findMinNode(Node *node) const;
     void displayRecursive(Node *node, bool isFirstNode, bool isLeftChild) const;
     void destroyRecursive(Node *node);

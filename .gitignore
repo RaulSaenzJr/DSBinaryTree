@@ -1,20 +1,20 @@
 *
 
-!main.cpp
+!Main.cpp
 !.gitignore
 !EmployeeInfo.h
 !EmployeeInfo.cpp
 !BinarySearchTree.h
 !BinarySearchTree.cpp
-!displayMenu.h
-!displayMenu.cpp
-!employeeDataReader.h
-!employeeDataReader.cpp
-!menuHandler.h
-!menuHandler.cpp
-!menuLoop.h
-!menuLoop.cpp
-!userInput.h
-!userInput.cpp
+!DisplayMenu.h
+!DisplayMenu.cpp
+!EmployeeDataReader.h
+!EmployeeDataReader.cpp
+!MenuHandler.h
+!MenuHandler.cpp
+!MenuLoop.h
+!MenuLoop.cpp
+!UserInput.h
+!UserInput.cpp
 
 
