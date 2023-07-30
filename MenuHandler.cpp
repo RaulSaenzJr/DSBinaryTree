@@ -1,3 +1,25 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    MenuHandler.cpp
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  MenuHandler.cpp contains the implementation of the MenuHandler class.
+//                This class is used to handle the menu options.
+//                The class provides a method to handle the menu option.
+//                The class also provides a method to display the menu.
+//******************************************************************************************************************
 #include "MenuHandler.h"
 #include <iostream>
 #include <limits>

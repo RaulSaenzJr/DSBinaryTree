@@ -1,3 +1,23 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    EmployeeInfo.h
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  EmployeeInfo.h contains the definition of the EmployeeInfo class.
+//                
+//******************************************************************************************************************
 #ifndef EMPLOYEEINFO_H
 #define EMPLOYEEINFO_H
 

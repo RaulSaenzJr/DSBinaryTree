@@ -1,3 +1,24 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    EmployeeDataReader.cpp
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  EmployeeDataReader.cpp contains the implementation of the EmployeeDataReader class.
+//                This class is used to read employee data from a file and insert it into a Binary Search Tree.
+//                The class also provides a method to read employee data from a file and insert it into a Binary Search Tree.
+//****************************************************************************************************************************
 #include "EmployeeDataReader.h"
 #include <fstream>
 #include <iostream>

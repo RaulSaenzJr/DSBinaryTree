@@ -1,3 +1,35 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    BinarySearchTree.cpp
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  BinarySearchTree.cpp contains the implementation of the BinarySearchTree class.
+//                This class is used to store EmployeeInfo objects in a binary search tree.
+//                The class provides methods to insert, remove, search, and display the data.
+//                The class also provides methods to get the height and number of nodes in the tree.
+//                The class also provides a method to save the data to a file recursively.
+//                The class also provides a method to search for an employee by name.
+//                The class also provides a method to search for an employee by ID.
+//                The class also provides a method to find the minimum node in the tree.
+//                The class also provides a method to destroy the tree.
+//                The class also provides a method to insert a node recursively.
+//                The class also provides a method to remove a node recursively.
+//                The class also provides a method to search for a node recursively.
+//                The class also provides a method to search for a node by name recursively.
+//                The class also provides a method to display the tree recursively.           
+//*******************************************************************************************************************
 #include "BinarySearchTree.h"
 #include <iostream>
 #include <iomanip>

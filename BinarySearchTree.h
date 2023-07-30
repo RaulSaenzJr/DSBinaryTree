@@ -1,3 +1,26 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    BinarySearchTree.h
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  BinarySearchTree.h contains the definition of the BinarySearchTree class.
+//                This class is used to store EmployeeInfo objects in a binary search tree.
+//                The class provides methods to insert, remove, search, and display the data.
+//                The class also provides methods to get the height and number of nodes in the tree.
+//                The class also provides a method to save the data to a file recursively.
+//*******************************************************************************************************************
 #ifndef BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_H
 

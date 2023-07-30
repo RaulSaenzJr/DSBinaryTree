@@ -1,3 +1,22 @@
+//********************************************************************************************************************************
+//
+//  Developer:    Raul Saenz JR
+//
+//  Program #:    Four
+//
+//  File Name:    DisplayMenu.cpp
+//
+//  Course:       COSC 2436 Data Structures
+//
+//  Due Date:     7/30/2023
+//  Submitted:    7/30/2023
+//
+//  Instructor:   Prof. Kathryn Rehfield
+//
+//  Chapter:      15 - 19
+//
+//  Description:  DisplayMenu.cpp contains the implementation of the DisplayMenu class.
+//******************************************************************************************************************
 #include "DisplayMenu.h"
 
 void DisplayMenu::displayMenu() {
